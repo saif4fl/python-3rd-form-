@@ -1,0 +1,57 @@
+Task 1: 
+
+Copy and paste the code below inro a code editor. Once you have 
+
+Tested it, explain below what the code does 
+
+
+game = “Fifa” 
+
+print(“Let's play”, game) 
+
+TeamOneScore = 0 
+
+TeamTwoScore = 0 
+
+print(“The game has now begun”) 
+
+print(“The score is” ,TeamOneScore, TeamTwoScore) 
+
+
+
+ Explain here what this code does: 
+
+It has a variabl saet to fifa saved as game then it says lets play " game and this porints as lets play fifa the it makes it so there are two variables saved as 0 and it says the schore is than closes speecxh marks and puts the variablles making it say 0 0  
+
+ Looking at the code above, answer the following questions 
+
+
+2a. The name of a function used in the code above is: 
+
+print 
+
+2b. The name of a variable used in the code above is: 
+
+teamtwoscore 
+
+2c. The name of a different variable used in the code above is: 
+
+teamonescore 
+
+
+Task 2 
+
+(15 mins) – go to: gcsecs.com/inputs.html 
+
+Use the website above 
+
+Enter the code in the code editor 
+
+ name = input("Enter your name: ")  
+
+print("Hello, " , name)  
+
+
+What does the code above do? 
+
+Asks me my name , and allows me to input my name than says hello m, my name  
