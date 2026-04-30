@@ -1,0 +1,4 @@
+password = ""
+while password != "kebab":
+  password = input('Please enter a password: ')
+print ("correct accepted")
